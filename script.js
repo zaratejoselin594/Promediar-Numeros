@@ -8,7 +8,6 @@ btn.addEventListener("click", (e) => {
 
   if (validarNumerico(arrayString)) {
     const arrayNumerico = arrayString.map(Number)
-    
     let i = 0;
     let sum = 0;
     for (i; i < arrayNumerico.length; i++) {
