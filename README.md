@@ -1,4 +1,5 @@
 # Promediar-Numeros
+Bienvenido/a a mi repositorio, esta web se encarga en calcular el promedio de una lista de números ingresados por el usuario.
 
 A continuacion una igamen de la web:
 
